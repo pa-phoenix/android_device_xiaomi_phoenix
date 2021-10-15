@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_phoenix.mk
+    $(LOCAL_DIR)/elytra_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_phoenix-user \
-    lineage_phoenix-userdebug \
-    lineage_phoenix-eng
+    elytra_phoenix-user \
+    elytra_phoenix-userdebug \
+    elytra_phoenix-eng
