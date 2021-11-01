@@ -252,6 +252,9 @@ vendor/firmware/CAMERA_ICP.elf
 # Consumer IR
 vendor/lib64/hw/consumerir.default.so:vendor/lib64/hw/consumerir.sm6150.so
 
+# DRM-L1
+vendor/lib64/liboemcrypto.so|6b8c5ab8cb16b7f42071ddc59ac868fa684cff4e
+
 # Display calibration
 vendor/etc/hdr_config.cfg
 vendor/etc/qdcm_calib_data_xiaomi_37_02_0a_video_mode_dsc_dsi_panel.xml
